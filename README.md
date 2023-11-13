@@ -1,4 +1,4 @@
-# AmazingNumbers
+# Amazing Numbers
 Another Project with Jetbrains
 
 In this project I made a program to check certain numbers for various properties, with the option to stipulate multiple properties or exclude certain properties.
